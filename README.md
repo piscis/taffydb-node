@@ -17,6 +17,11 @@ How you ever noticed how JavaScript object literals look a lot like records? And
  - Easily extended with your own functions
  - Compatible with any DOM library (jQuery, YUI, Dojo, etc)
 
+## Installation via NPM
+
+    $ npm install taffy
+
+
 ## Create a DB
 
 Just pass in JSON:
