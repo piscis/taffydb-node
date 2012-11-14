@@ -19,7 +19,7 @@ How you ever noticed how JavaScript object literals look a lot like records? And
 
 Just pass in JSON:
 
-    var TAFFY = require('taffydb-node');
+    var TAFFY = require('taffy');
 
     var products = TAFFY([{
         "item":1,
