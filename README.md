@@ -2,6 +2,8 @@
 
 TaffyDB is an opensouce library that brings database features into your JavaScript applications.
 
+[![Build Status](https://secure.travis-ci.org/piscis/taffydb-node.png)](http://travis-ci.org/piscis/taffydb-node)
+
 ## Introduction
 
 How you ever noticed how JavaScript object literals look a lot like records? And that if you wrap a group of them up in an array you have something that atcs a lot like a database table? TaffyDB brings powerful database funtionality to that concept and rapidly improves the way you work with data inside of JavaScript.
