@@ -30,7 +30,7 @@
      , "author": "Ian Smith (https://twitter.com/biastoact/)"
      , "maintainers": "Alexander Pirsig <apirsig@web.de>"
      , "licenses": [{
-          "type": "MIT",
+          "type": "BSD",
           "url": "https://github.com/piscis/taffydb-node/LICENSE"
      }]
      , "dependencies": {}
