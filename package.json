@@ -1,0 +1,43 @@
+{
+       "name": "taffydb-node"
+     , "version": "2.6.2"
+     , "publishConfig": { 
+          "tag": "2.6.2" 
+     }
+     , "description": "A node package for TaffyDB - an open source JavaScript Database for your browser"
+     , "homepage": [ 
+          "http://www.taffydb.com/"
+          , "https://github.com/piscis/taffydb-node"
+     ]
+     , "repository": { 
+          "type": "git"
+          , "url": "https://github.com/piscis/taffydb-node.git"
+     }
+     , "bugs": { "url" : "https://github.com/piscis/taffydb-node/issues" }
+     , "contributors": [] 
+     , "dependencies": {}
+     , "devDependencies": {
+          "mocha": "*",
+          "should": "*"
+     }
+     , "keywords": [ 
+          "taffydb"
+          , "database"
+          , "browser"
+          , "json"
+          , "nosql"
+     ]
+     , "author": "Ian Smith (https://twitter.com/biastoact/)"
+     , "maintainers": "Alexander Pirsig <apirsig@web.de>"
+     , "licenses": [{
+          "type": "MIT",
+          "url": "https://github.com/piscis/taffydb-node/LICENSE"
+     }]
+     , "dependencies": {}
+     , "main": "index"
+     , "engines": { "node": "*" }
+     , "scripts": {
+          "prepublish":"npm prune",
+          "test": "make test"
+     }
+}
