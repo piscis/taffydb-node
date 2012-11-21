@@ -6,7 +6,7 @@
      }
      , "description": "A node package for TaffyDB - an open source JavaScript Database for your browser"
      , "author": "Ian Smith (https://twitter.com/biastoact/)"
-     , "maintainers": "Alexander Pirsig <apirsig@web.de>"
+     , "maintainers": "Alexander Pirsig <self@pirsig.net>"
      , "licenses": [{
           "type": "BSD",
           "url": "https://github.com/piscis/taffydb-node/LICENSE"
